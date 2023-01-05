@@ -32,7 +32,7 @@ $ bundle
 ```
 
 ## Usage
-
+Getting Start [Start guild](https://chirpy.cotes.page/posts/getting-started/).
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
 ## License
