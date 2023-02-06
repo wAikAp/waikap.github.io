@@ -114,7 +114,7 @@ namespace Project.Models
         private User(Action<object, string> lazyLoader)
         {
             LazyLoader = lazyLoader;
-        }    
+        }  
         private Action<object, string> LazyLoader { get; set; }
 
         public int Id { get; set; }
@@ -140,8 +140,6 @@ namespace Project.Models
 ```
 
 最後我選擇1, 改動最少, main少d野😎. Project用戶並發量唔算大, 所以暫時都無需要out of process (tcpip) 噶sesstion state. 如果真係要用我會推薦方法3.
-
-
 
 Reference
 
