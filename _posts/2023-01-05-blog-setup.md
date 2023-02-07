@@ -25,7 +25,7 @@ high level黎講, 無論你揀fork or starter其實原理上都係炒曬呢堆fi
 按[Chirpy Starter](https://github.com/cotes2020/chirpy-starter/generate)會自動跳到Github create a new repo
 輸入翻自己噶username系 `<GH_USERNAME>.github.io` 入面如下圖
 
-![1672972287656](image/2023-01-05-blog-setup/1672972287656.png)
+![1672972287656](/posts/2023-01-05/1672972287656.png)
 
 #### Setup environment
 
@@ -62,7 +62,7 @@ Create完就可以clone反落自己部機可以用Github desktop/git cmd 隨你�
 
    但係如果你跟住份doc打完下面三句, restart terminal, 有機會出現 `chruby: unknow Ruby: ruby-3.1.3` 經過google大神發現好多人都有類似情況, 而係jekyll噶[issues](https://github.com/jekyll/jekyll/issues/9194)都穩到解決辦法
 
-   ![1672974883840](image/2023-01-05-blog-setup/1672974883840.png)
+   ![1672974883840](/posts/2023-01-05/1672974883840.png)
 6. Finally !! After installing Ruby with chruby, install the latest Jekyll gem
 
    ```bash
@@ -73,7 +73,7 @@ Create完就可以clone反落自己部機可以用Github desktop/git cmd 隨你�
 
 1. cd to your project's path
    ```bash
-   cd /Users/ngis/Desktop/Mine/waikap.github.io
+   cd /Users/who/Desktop/Mine/waikap.github.io
    ```
 2. run cmd, to install dependence
    ```
