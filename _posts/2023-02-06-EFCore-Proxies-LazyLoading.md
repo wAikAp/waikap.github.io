@@ -7,7 +7,7 @@ tags: [.Net, EFCore, Session, IIS]
 ---
 # Unable to serialize the session state. In 'StateServer' and 'SQLServer' mode
 
-![1675683464945](/post/2023-02-06/1675683464945.png)
+![1675683464945](/posts/2023-02-06/1675683464945.png)
 
 Error Message: `Unable to serialize the session state. In 'StateServer' and 'SQLServer' mode, ASP.NET will serialize the session state objects, and as a result non-serializable objects or MarshalByRef objects are not permitted. The same restriction applies if similar serialization is done by the custom session state store in 'Custom' mode.`
 
